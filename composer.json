@@ -1,5 +1,5 @@
 {
-    "name": "facebook/graph-sdk",
+    "name": "webflixtec/sdk-php-facebook",
     "description": "Facebook SDK for PHP",
     "keywords": ["facebook", "sdk"],
     "type": "library",
